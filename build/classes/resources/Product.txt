@@ -1,0 +1,7 @@
+P101,I phone,800.50
+P102,Laptop,1500.56
+P104,Mac Book,2395.50
+P105,Acer Tab,367.50
+P106,Bike,445.55
+P107,Car,4235.67
+
